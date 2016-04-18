@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Centrarium</title>
-    <description>A simple yet classy theme for your Jekyll website or blog.
+    <title>John的技术博客</title>
+    <description>John的技术博客
 </description>
-    <link>http://bencentra.github.io/centrarium/</link>
-    <atom:link href="http://bencentra.github.io/centrarium/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 18 Apr 2016 20:22:06 +0800</pubDate>
-    <lastBuildDate>Mon, 18 Apr 2016 20:22:06 +0800</lastBuildDate>
+    <link>http://bencentra.github.io/</link>
+    <atom:link href="http://bencentra.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Apr 2016 22:54:03 +0800</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2016 22:54:03 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -54,7 +54,7 @@ function demo(string, times) {
 
 &lt;p&gt;Syntax highlighting is done using &lt;a href=&quot;https://highlightjs.org/&quot;&gt;highlight.js&lt;/a&gt;. You can change the active theme in &lt;a href=&quot;https://github.com/bencentra/centrarium/blob/2dcd73d09e104c3798202b0e14c1db9fa6e77bc7/_includes/head.html#L15&quot;&gt;head.html&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+&lt;h3 id=&quot;section&quot;&gt;图片&lt;/h3&gt;
 
 &lt;p&gt;Lightbox has been enabled for images. To create the link that’ll launch the lightbox, add &lt;code&gt;data-lightbox&lt;/code&gt; and &lt;code&gt;data-title&lt;/code&gt; attributes to an &lt;code&gt;&amp;lt;a&amp;gt;&lt;/code&gt; tag around your &lt;code&gt;&amp;lt;img&amp;gt;&lt;/code&gt; tag. The result is:&lt;/p&gt;
 
@@ -68,8 +68,8 @@ function demo(string, times) {
 
 </description>
         <pubDate>Sat, 18 Apr 2015 16:43:59 +0800</pubDate>
-        <link>http://bencentra.github.io/centrarium/jekyll/2015/04/18/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/jekyll/2015/04/18/welcome-to-jekyll.html</guid>
+        <link>http://bencentra.github.io/jekyll/2015/04/18/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://bencentra.github.io/jekyll/2015/04/18/welcome-to-jekyll.html</guid>
         
         <category>jekyll</category>
         
@@ -92,8 +92,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 16:43:59 +0800</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy6.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy6.html</guid>
+        <link>http://bencentra.github.io/dummy/2015/04/18/dummy6.html</link>
+        <guid isPermaLink="true">http://bencentra.github.io/dummy/2015/04/18/dummy6.html</guid>
         
         <category>lorem</category>
         
@@ -116,8 +116,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 16:43:59 +0800</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy5.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy5.html</guid>
+        <link>http://bencentra.github.io/dummy/2015/04/18/dummy5.html</link>
+        <guid isPermaLink="true">http://bencentra.github.io/dummy/2015/04/18/dummy5.html</guid>
         
         <category>lorem</category>
         
@@ -138,8 +138,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 16:43:59 +0800</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy4.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy4.html</guid>
+        <link>http://bencentra.github.io/dummy/2015/04/18/dummy4.html</link>
+        <guid isPermaLink="true">http://bencentra.github.io/dummy/2015/04/18/dummy4.html</guid>
         
         <category>ipsum</category>
         
@@ -160,8 +160,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 16:43:59 +0800</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy3.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy3.html</guid>
+        <link>http://bencentra.github.io/dummy/2015/04/18/dummy3.html</link>
+        <guid isPermaLink="true">http://bencentra.github.io/dummy/2015/04/18/dummy3.html</guid>
         
         
         <category>Dummy</category>
@@ -180,8 +180,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 16:43:59 +0800</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy2.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy2.html</guid>
+        <link>http://bencentra.github.io/dummy/2015/04/18/dummy2.html</link>
+        <guid isPermaLink="true">http://bencentra.github.io/dummy/2015/04/18/dummy2.html</guid>
         
         
         <category>Dummy</category>
@@ -200,8 +200,8 @@ cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Apr 2015 16:43:59 +0800</pubDate>
-        <link>http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy.html</link>
-        <guid isPermaLink="true">http://bencentra.github.io/centrarium/dummy/2015/04/18/dummy.html</guid>
+        <link>http://bencentra.github.io/dummy/2015/04/18/dummy.html</link>
+        <guid isPermaLink="true">http://bencentra.github.io/dummy/2015/04/18/dummy.html</guid>
         
         
         <category>Dummy</category>
